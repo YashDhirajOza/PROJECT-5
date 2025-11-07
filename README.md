@@ -32,5 +32,5 @@ The website is designed to be responsive, ensuring a seamless and enjoyable user
 - **Swiper JS:** [https://swiperjs.com/](https://swiperjs.com/)
 - **Remixicon:** [https://remixicon.com/](https://remixicon.com/)
 
-## Author
-[Jagmohan Singh Malhi](https://www.linkedin.com/in/jagmohan-singh-malhi-a67805243/)
+
+
